@@ -1,0 +1,29 @@
+[
+  {
+    "id": 1,
+    "title": "স্ক্র্যাচ থেকে আধুনিক জাভাস্ক্রিপ্ট",
+    "description": "ES6+ বৈশিষ্ট্য সহ জাভাস্ক্রিপ্টের মূল বিষয়গুলি শিখুন।",
+    "image": "https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg?tx=w_1920,q_auto",
+    "price": 1900,
+    "salePrice": 1200,
+    "tags": ["জাভাস্ক্রিপ্ট", "ES6", "প্রোগ্রামিং"]
+  },
+  {
+    "id": 2,
+    "title": "নতুনদের জন্য React",
+    "description": "React.js এবং আধুনিক সরঞ্জাম ব্যবহার করে ডাইনামিক ওয়েব অ্যাপ্লিকেশন তৈরি করুন।",
+    "image": "https://media.licdn.com/dms/image/v2/D4D12AQFWqHWO_ar8lw/article-cover_image-shrink_600_2000/article-cover_image-shrink_600_2000/0/1705392950059?e=2147483647&v=beta&t=u8h_M3xR2mIVPnSOrINN84uk_mT8ADkbhbzejxb1A4o",
+    "price": 6200,
+    "salePrice": 4500,
+    "tags": ["React", "ফ্রন্টএন্ড", "ওয়েব ডেভেলপমেন্ট"]
+  },
+  {
+    "id": 3,
+    "title": "Node.js এবং Express বুটক্যাম্প",
+    "description": "Node.js এবং Express ফ্রেমওয়ার্ক ব্যবহার করে ব্যাকএন্ড ডেভেলপমেন্টে দক্ষতা অর্জন করুন।",
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT1-ypy_UY-d00JJJH-de0LF-4hZywM0Yv-eA&s",
+    "price": 7000,
+    "salePrice": 5500,
+    "tags": ["Node.js", "ব্যাকএন্ড", "Express"]
+  }
+]
